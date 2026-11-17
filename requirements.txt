@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-dotenv>=1.0
+smartapi-python==1.5.5
+pyotp>=2.9
+websocket-client>=1.6
+logzero>=1.7
+certifi
+requests>=2.31
+# --- test only ---
+pytest>=8.0
+httpx>=0.27

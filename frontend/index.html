@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NIFTY Live Engine</title>
+<link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <div class="instrument">
+      <span class="sym" id="sym">NIFTY 50</span>
+      <span class="badge mock hidden" id="mockBadge">DEMO / MOCK DATA</span>
+    </div>
+    <div class="quote">
+      <span class="price" id="price">—</span>
+      <span class="chg" id="chg">—</span>
+      <span class="chg" id="chgPct"></span>
+    </div>
+    <div class="meta">
+      <span class="pill" id="statePill" data-state="connecting">Connecting</span>
+      <span class="lasttick">Last tick <b id="lastTick">—</b></span>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="tfs" id="tfs" role="tablist" aria-label="Timeframe"></div>
+    <div class="tools">
+      <button id="btnFit" title="Fit all candles in view">Fit</button>
+      <button id="btnReset" title="Reset zoom and jump to latest">Reset</button>
+      <button id="btnFlow" aria-expanded="false" title="Institutional activity / options-flow signals">Flow</button>
+      <button id="btnVal" aria-expanded="false" title="Historical validation of signals">Validation</button>
+      <button id="btnSettings" aria-expanded="false">Settings</button>
+      <button id="btnDiag" aria-expanded="false">Diagnostics</button>
+    </div>
+  </div>
+
+  <div id="stateBanner" class="banner hidden"></div>
+  <div id="flowStrip" class="flowstrip hidden" title="Click for the score breakdown"></div>
+
+  <main class="chart-wrap">
+    <div id="legend" class="legend"><span class="muted">Hover chart for OHLC</span></div>
+    <div id="chart"></div>
+    <div id="empty" class="empty hidden"><div><h3 id="emptyTitle">No candles yet</h3><p id="emptyMsg"></p></div></div>
+    <aside id="settings" class="panel hidden" aria-label="Chart settings">
+      <h4>Chart settings</h4>
+      <label><input type="checkbox" id="setVolume"> Show volume (when available)</label>
+      <label><input type="checkbox" id="setGrid"> Grid lines</label>
+      <label><input type="checkbox" id="setPriceLine"> Last-price line</label>
+      <label><input type="checkbox" id="setFollow"> Follow latest candle</label>
+      <label>Time zone
+        <select id="setTz"><option value="Asia/Kolkata">IST (Asia/Kolkata)</option><option value="UTC">UTC</option><option value="local">Browser local</option></select>
+      </label>
+      <label>Up colour <input type="color" id="setUp"></label>
+      <label>Down colour <input type="color" id="setDown"></label>
+      <button id="setDefaults">Restore defaults</button>
+    </aside>
+    <aside id="flowPanel" class="panel wide hidden" aria-label="Flow filters"></aside>
+    <aside id="valPanel" class="panel wide hidden" aria-label="Validation"></aside>
+    <aside id="detail" class="panel detail hidden" aria-label="Signal explanation"></aside>
+    <aside id="diag" class="panel right hidden" aria-label="Diagnostics">
+      <h4>Diagnostics</h4>
+      <dl id="diagList"></dl>
+    </aside>
+  </main>
+
+  <footer class="statusbar">
+    <span id="volNote" class="muted"></span>
+    <span class="spacer"></span>
+    <span>Latency <b id="latency">n/a</b></span>
+    <span>Ticks <b id="ticks">0</b></span>
+    <span id="tzLabel" class="muted">IST</span>
+  </footer>
+</div>
+<script src="/static/vendor/lightweight-charts.standalone.production.js"></script>
+<script src="/static/js/settings.js"></script>
+<script src="/static/js/chart.js"></script>
+<script src="/static/js/flow.js"></script>
+<script src="/static/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2405 @@
+{
+ "_MOCK_DATA": "MOCK DATA - SYNTHETIC DEMO TICKS, NOT REAL MARKET DATA. Shape mirrors SmartWebSocketV2 output (paise, ms).",
+ "ticks": [
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 1,
+   "exchange_timestamp": 1767240000000,
+   "last_traded_price": 2401321,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 804
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 2,
+   "exchange_timestamp": 1767240000500,
+   "last_traded_price": 2401433,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 958
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 3,
+   "exchange_timestamp": 1767240001000,
+   "last_traded_price": 2401283,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 1097
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 4,
+   "exchange_timestamp": 1767240001500,
+   "last_traded_price": 2400980,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 1751
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 5,
+   "exchange_timestamp": 1767240002000,
+   "last_traded_price": 2400946,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 2024
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 6,
+   "exchange_timestamp": 1767240002500,
+   "last_traded_price": 2400964,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 2312
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 7,
+   "exchange_timestamp": 1767240003000,
+   "last_traded_price": 2400927,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 2565
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 8,
+   "exchange_timestamp": 1767240003500,
+   "last_traded_price": 2400926,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 3348
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 9,
+   "exchange_timestamp": 1767240004000,
+   "last_traded_price": 2400808,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 3623
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 10,
+   "exchange_timestamp": 1767240004500,
+   "last_traded_price": 2400645,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 4132
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 11,
+   "exchange_timestamp": 1767240005000,
+   "last_traded_price": 2400399,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 4188
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 12,
+   "exchange_timestamp": 1767240005500,
+   "last_traded_price": 2400244,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 5015
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 13,
+   "exchange_timestamp": 1767240006000,
+   "last_traded_price": 2400329,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 5413
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 14,
+   "exchange_timestamp": 1767240006500,
+   "last_traded_price": 2400096,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 5747
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 15,
+   "exchange_timestamp": 1767240007000,
+   "last_traded_price": 2400321,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 6141
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 16,
+   "exchange_timestamp": 1767240007500,
+   "last_traded_price": 2400654,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 6295
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 17,
+   "exchange_timestamp": 1767240008000,
+   "last_traded_price": 2400714,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 6697
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 18,
+   "exchange_timestamp": 1767240008500,
+   "last_traded_price": 2400754,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 7365
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 19,
+   "exchange_timestamp": 1767240009000,
+   "last_traded_price": 2400750,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 7885
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 20,
+   "exchange_timestamp": 1767240009500,
+   "last_traded_price": 2400797,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 8484
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 21,
+   "exchange_timestamp": 1767240010000,
+   "last_traded_price": 2401053,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 8614
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 22,
+   "exchange_timestamp": 1767240010500,
+   "last_traded_price": 2401309,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 9229
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 23,
+   "exchange_timestamp": 1767240011000,
+   "last_traded_price": 2401248,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 9649
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 24,
+   "exchange_timestamp": 1767240011500,
+   "last_traded_price": 2401465,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 10290
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 25,
+   "exchange_timestamp": 1767240012000,
+   "last_traded_price": 2401487,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 11017
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 26,
+   "exchange_timestamp": 1767240012500,
+   "last_traded_price": 2401544,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 11300
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 27,
+   "exchange_timestamp": 1767240013000,
+   "last_traded_price": 2401611,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 11588
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 28,
+   "exchange_timestamp": 1767240013500,
+   "last_traded_price": 2401151,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 11741
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 29,
+   "exchange_timestamp": 1767240014000,
+   "last_traded_price": 2401023,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 12164
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 30,
+   "exchange_timestamp": 1767240014500,
+   "last_traded_price": 2401143,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 12380
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 31,
+   "exchange_timestamp": 1767240015000,
+   "last_traded_price": 2401068,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 12703
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 32,
+   "exchange_timestamp": 1767240015500,
+   "last_traded_price": 2401148,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 13471
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 33,
+   "exchange_timestamp": 1767240016000,
+   "last_traded_price": 2401361,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 14144
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 34,
+   "exchange_timestamp": 1767240016500,
+   "last_traded_price": 2401271,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 14844
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 35,
+   "exchange_timestamp": 1767240017000,
+   "last_traded_price": 2401394,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 15061
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 36,
+   "exchange_timestamp": 1767240017500,
+   "last_traded_price": 2401622,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 15584
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 37,
+   "exchange_timestamp": 1767240018000,
+   "last_traded_price": 2401271,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 16289
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 38,
+   "exchange_timestamp": 1767240018500,
+   "last_traded_price": 2401603,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 17043
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 39,
+   "exchange_timestamp": 1767240019000,
+   "last_traded_price": 2401375,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 17879
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 40,
+   "exchange_timestamp": 1767240019500,
+   "last_traded_price": 2401290,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 18723
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 41,
+   "exchange_timestamp": 1767240020000,
+   "last_traded_price": 2401569,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 19597
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 42,
+   "exchange_timestamp": 1767240020500,
+   "last_traded_price": 2401671,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 19970
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 43,
+   "exchange_timestamp": 1767240021000,
+   "last_traded_price": 2401623,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 20600
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 44,
+   "exchange_timestamp": 1767240021500,
+   "last_traded_price": 2401657,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 21385
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 45,
+   "exchange_timestamp": 1767240022000,
+   "last_traded_price": 2401565,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 21840
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 46,
+   "exchange_timestamp": 1767240022500,
+   "last_traded_price": 2401780,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 22548
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 47,
+   "exchange_timestamp": 1767240023000,
+   "last_traded_price": 2401658,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 22850
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 48,
+   "exchange_timestamp": 1767240023500,
+   "last_traded_price": 2401690,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 23662
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 49,
+   "exchange_timestamp": 1767240024000,
+   "last_traded_price": 2401575,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 24310
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 50,
+   "exchange_timestamp": 1767240024500,
+   "last_traded_price": 2401528,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 24798
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 51,
+   "exchange_timestamp": 1767240025000,
+   "last_traded_price": 2401657,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 25072
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 52,
+   "exchange_timestamp": 1767240025500,
+   "last_traded_price": 2401560,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 25263
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 53,
+   "exchange_timestamp": 1767240026000,
+   "last_traded_price": 2401490,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 25361
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 54,
+   "exchange_timestamp": 1767240026500,
+   "last_traded_price": 2401486,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 25523
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 55,
+   "exchange_timestamp": 1767240027000,
+   "last_traded_price": 2401540,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 26269
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 56,
+   "exchange_timestamp": 1767240027500,
+   "last_traded_price": 2401618,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 26751
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 57,
+   "exchange_timestamp": 1767240028000,
+   "last_traded_price": 2401488,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 27411
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 58,
+   "exchange_timestamp": 1767240028500,
+   "last_traded_price": 2401398,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 27940
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 59,
+   "exchange_timestamp": 1767240029000,
+   "last_traded_price": 2400980,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 28001
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 60,
+   "exchange_timestamp": 1767240029500,
+   "last_traded_price": 2400902,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 28747
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 61,
+   "exchange_timestamp": 1767240030000,
+   "last_traded_price": 2400858,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 29346
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 62,
+   "exchange_timestamp": 1767240030500,
+   "last_traded_price": 2400620,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 30164
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 63,
+   "exchange_timestamp": 1767240031000,
+   "last_traded_price": 2400596,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 30328
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 64,
+   "exchange_timestamp": 1767240031500,
+   "last_traded_price": 2400823,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 30678
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 65,
+   "exchange_timestamp": 1767240032000,
+   "last_traded_price": 2400662,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 31467
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 66,
+   "exchange_timestamp": 1767240032500,
+   "last_traded_price": 2400732,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 32253
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 67,
+   "exchange_timestamp": 1767240033000,
+   "last_traded_price": 2400716,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 32485
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 68,
+   "exchange_timestamp": 1767240033500,
+   "last_traded_price": 2400904,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 33054
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 69,
+   "exchange_timestamp": 1767240034000,
+   "last_traded_price": 2401180,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 33409
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 70,
+   "exchange_timestamp": 1767240034500,
+   "last_traded_price": 2401011,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 34113
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 71,
+   "exchange_timestamp": 1767240035000,
+   "last_traded_price": 2400905,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 34545
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 72,
+   "exchange_timestamp": 1767240035500,
+   "last_traded_price": 2400900,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 35375
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 73,
+   "exchange_timestamp": 1767240036000,
+   "last_traded_price": 2401109,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 35968
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 74,
+   "exchange_timestamp": 1767240036500,
+   "last_traded_price": 2401446,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 36018
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 75,
+   "exchange_timestamp": 1767240037000,
+   "last_traded_price": 2401295,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 36182
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 76,
+   "exchange_timestamp": 1767240037500,
+   "last_traded_price": 2401187,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 36603
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 77,
+   "exchange_timestamp": 1767240038000,
+   "last_traded_price": 2401406,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 36967
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 78,
+   "exchange_timestamp": 1767240038500,
+   "last_traded_price": 2401197,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 37262
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 79,
+   "exchange_timestamp": 1767240039000,
+   "last_traded_price": 2401504,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 37392
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 80,
+   "exchange_timestamp": 1767240039500,
+   "last_traded_price": 2401621,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 37529
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 81,
+   "exchange_timestamp": 1767240040000,
+   "last_traded_price": 2401587,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 38357
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 82,
+   "exchange_timestamp": 1767240040500,
+   "last_traded_price": 2401295,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 38952
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 83,
+   "exchange_timestamp": 1767240041000,
+   "last_traded_price": 2401303,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 39488
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 84,
+   "exchange_timestamp": 1767240041500,
+   "last_traded_price": 2401220,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 40100
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 85,
+   "exchange_timestamp": 1767240042000,
+   "last_traded_price": 2401319,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 40771
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 86,
+   "exchange_timestamp": 1767240042500,
+   "last_traded_price": 2401488,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 41254
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 87,
+   "exchange_timestamp": 1767240043000,
+   "last_traded_price": 2401847,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 42077
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 88,
+   "exchange_timestamp": 1767240043500,
+   "last_traded_price": 2401765,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 42874
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 89,
+   "exchange_timestamp": 1767240044000,
+   "last_traded_price": 2401672,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 43332
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 90,
+   "exchange_timestamp": 1767240044500,
+   "last_traded_price": 2401437,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 44069
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 91,
+   "exchange_timestamp": 1767240045000,
+   "last_traded_price": 2401336,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 44648
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 92,
+   "exchange_timestamp": 1767240045500,
+   "last_traded_price": 2401197,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 45160
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 93,
+   "exchange_timestamp": 1767240046000,
+   "last_traded_price": 2401279,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 45556
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 94,
+   "exchange_timestamp": 1767240046500,
+   "last_traded_price": 2401358,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 45627
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 95,
+   "exchange_timestamp": 1767240047000,
+   "last_traded_price": 2401260,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 45902
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 96,
+   "exchange_timestamp": 1767240047500,
+   "last_traded_price": 2401199,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 45959
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 97,
+   "exchange_timestamp": 1767240048000,
+   "last_traded_price": 2401403,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 46243
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 98,
+   "exchange_timestamp": 1767240048500,
+   "last_traded_price": 2401500,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 46362
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 99,
+   "exchange_timestamp": 1767240049000,
+   "last_traded_price": 2401763,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 46484
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 100,
+   "exchange_timestamp": 1767240049500,
+   "last_traded_price": 2401585,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 47060
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 101,
+   "exchange_timestamp": 1767240050000,
+   "last_traded_price": 2401603,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 47329
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 102,
+   "exchange_timestamp": 1767240050500,
+   "last_traded_price": 2401840,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 47931
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 103,
+   "exchange_timestamp": 1767240051000,
+   "last_traded_price": 2402093,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 48565
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 104,
+   "exchange_timestamp": 1767240051500,
+   "last_traded_price": 2402370,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 49205
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 105,
+   "exchange_timestamp": 1767240052000,
+   "last_traded_price": 2402093,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 50081
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 106,
+   "exchange_timestamp": 1767240052500,
+   "last_traded_price": 2402141,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 50547
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 107,
+   "exchange_timestamp": 1767240053000,
+   "last_traded_price": 2402168,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 51038
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 108,
+   "exchange_timestamp": 1767240053500,
+   "last_traded_price": 2402235,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 51450
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 109,
+   "exchange_timestamp": 1767240054000,
+   "last_traded_price": 2402076,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 52246
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 110,
+   "exchange_timestamp": 1767240054500,
+   "last_traded_price": 2402159,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 52351
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 111,
+   "exchange_timestamp": 1767240055000,
+   "last_traded_price": 2401945,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 52501
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 112,
+   "exchange_timestamp": 1767240055500,
+   "last_traded_price": 2401537,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 52613
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 113,
+   "exchange_timestamp": 1767240056000,
+   "last_traded_price": 2401418,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 52774
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 114,
+   "exchange_timestamp": 1767240056500,
+   "last_traded_price": 2401502,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 53078
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 115,
+   "exchange_timestamp": 1767240057000,
+   "last_traded_price": 2401573,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 53271
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 116,
+   "exchange_timestamp": 1767240057500,
+   "last_traded_price": 2401758,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 53753
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 117,
+   "exchange_timestamp": 1767240058000,
+   "last_traded_price": 2401830,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 53880
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 118,
+   "exchange_timestamp": 1767240058500,
+   "last_traded_price": 2401993,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 54383
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 119,
+   "exchange_timestamp": 1767240059000,
+   "last_traded_price": 2402105,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 54533
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 120,
+   "exchange_timestamp": 1767240059500,
+   "last_traded_price": 2401811,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 54634
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 121,
+   "exchange_timestamp": 1767240060000,
+   "last_traded_price": 2401696,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 54699
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 122,
+   "exchange_timestamp": 1767240060500,
+   "last_traded_price": 2401533,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 54844
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 123,
+   "exchange_timestamp": 1767240061000,
+   "last_traded_price": 2401811,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 55064
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 124,
+   "exchange_timestamp": 1767240061500,
+   "last_traded_price": 2401673,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 55530
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 125,
+   "exchange_timestamp": 1767240062000,
+   "last_traded_price": 2401562,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 55990
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 126,
+   "exchange_timestamp": 1767240062500,
+   "last_traded_price": 2401572,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 56100
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 127,
+   "exchange_timestamp": 1767240063000,
+   "last_traded_price": 2401577,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 56549
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 128,
+   "exchange_timestamp": 1767240063500,
+   "last_traded_price": 2401586,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 56870
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 129,
+   "exchange_timestamp": 1767240064000,
+   "last_traded_price": 2401838,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 57212
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 130,
+   "exchange_timestamp": 1767240064500,
+   "last_traded_price": 2401713,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 57695
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 131,
+   "exchange_timestamp": 1767240065000,
+   "last_traded_price": 2401627,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 58547
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 132,
+   "exchange_timestamp": 1767240065500,
+   "last_traded_price": 2401383,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 59166
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 133,
+   "exchange_timestamp": 1767240066000,
+   "last_traded_price": 2401286,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 59410
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 134,
+   "exchange_timestamp": 1767240066500,
+   "last_traded_price": 2401128,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 59763
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 135,
+   "exchange_timestamp": 1767240067000,
+   "last_traded_price": 2401140,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 60566
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 136,
+   "exchange_timestamp": 1767240067500,
+   "last_traded_price": 2401194,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 61171
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 137,
+   "exchange_timestamp": 1767240068000,
+   "last_traded_price": 2401323,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 61272
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 138,
+   "exchange_timestamp": 1767240068500,
+   "last_traded_price": 2401375,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 61920
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 139,
+   "exchange_timestamp": 1767240069000,
+   "last_traded_price": 2401019,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 62513
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 140,
+   "exchange_timestamp": 1767240069500,
+   "last_traded_price": 2401072,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 62724
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 141,
+   "exchange_timestamp": 1767240070000,
+   "last_traded_price": 2401250,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 62964
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 142,
+   "exchange_timestamp": 1767240070500,
+   "last_traded_price": 2401317,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 63084
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 143,
+   "exchange_timestamp": 1767240071000,
+   "last_traded_price": 2401118,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 63374
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 144,
+   "exchange_timestamp": 1767240071500,
+   "last_traded_price": 2400983,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 63837
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 145,
+   "exchange_timestamp": 1767240072000,
+   "last_traded_price": 2401229,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 64139
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 146,
+   "exchange_timestamp": 1767240072500,
+   "last_traded_price": 2401459,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 64781
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 147,
+   "exchange_timestamp": 1767240073000,
+   "last_traded_price": 2401274,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 65260
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 148,
+   "exchange_timestamp": 1767240073500,
+   "last_traded_price": 2401150,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 65983
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 149,
+   "exchange_timestamp": 1767240074000,
+   "last_traded_price": 2400982,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 66300
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 150,
+   "exchange_timestamp": 1767240074500,
+   "last_traded_price": 2400884,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 66559
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 151,
+   "exchange_timestamp": 1767240075000,
+   "last_traded_price": 2400817,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 66880
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 152,
+   "exchange_timestamp": 1767240075500,
+   "last_traded_price": 2400695,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 67335
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 153,
+   "exchange_timestamp": 1767240076000,
+   "last_traded_price": 2400852,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 67853
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 154,
+   "exchange_timestamp": 1767240076500,
+   "last_traded_price": 2401021,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 68226
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 155,
+   "exchange_timestamp": 1767240077000,
+   "last_traded_price": 2401359,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 68285
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 156,
+   "exchange_timestamp": 1767240077500,
+   "last_traded_price": 2401197,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 68804
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 157,
+   "exchange_timestamp": 1767240078000,
+   "last_traded_price": 2401048,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 68956
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 158,
+   "exchange_timestamp": 1767240078500,
+   "last_traded_price": 2400906,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 69081
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 159,
+   "exchange_timestamp": 1767240079000,
+   "last_traded_price": 2400722,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 69266
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 160,
+   "exchange_timestamp": 1767240079500,
+   "last_traded_price": 2400677,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 69673
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 161,
+   "exchange_timestamp": 1767240080000,
+   "last_traded_price": 2400918,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 70101
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 162,
+   "exchange_timestamp": 1767240080500,
+   "last_traded_price": 2400694,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 70442
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 163,
+   "exchange_timestamp": 1767240081000,
+   "last_traded_price": 2400860,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 71212
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 164,
+   "exchange_timestamp": 1767240081500,
+   "last_traded_price": 2401114,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 71571
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 165,
+   "exchange_timestamp": 1767240082000,
+   "last_traded_price": 2400753,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 72290
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 166,
+   "exchange_timestamp": 1767240082500,
+   "last_traded_price": 2400448,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 72881
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 167,
+   "exchange_timestamp": 1767240083000,
+   "last_traded_price": 2400742,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 73237
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 168,
+   "exchange_timestamp": 1767240083500,
+   "last_traded_price": 2400757,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 73966
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 169,
+   "exchange_timestamp": 1767240084000,
+   "last_traded_price": 2401018,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 74286
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 170,
+   "exchange_timestamp": 1767240084500,
+   "last_traded_price": 2401217,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 74454
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 171,
+   "exchange_timestamp": 1767240085000,
+   "last_traded_price": 2401420,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 74663
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 172,
+   "exchange_timestamp": 1767240085500,
+   "last_traded_price": 2401251,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 74991
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 173,
+   "exchange_timestamp": 1767240086000,
+   "last_traded_price": 2401230,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 75392
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 174,
+   "exchange_timestamp": 1767240086500,
+   "last_traded_price": 2401337,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 75650
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 175,
+   "exchange_timestamp": 1767240087000,
+   "last_traded_price": 2401218,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 76217
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 176,
+   "exchange_timestamp": 1767240087500,
+   "last_traded_price": 2400928,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 76767
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 177,
+   "exchange_timestamp": 1767240088000,
+   "last_traded_price": 2400926,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 76869
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 178,
+   "exchange_timestamp": 1767240088500,
+   "last_traded_price": 2401275,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 77013
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 179,
+   "exchange_timestamp": 1767240089000,
+   "last_traded_price": 2401075,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 77108
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 180,
+   "exchange_timestamp": 1767240089500,
+   "last_traded_price": 2400851,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 77161
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 181,
+   "exchange_timestamp": 1767240090000,
+   "last_traded_price": 2400808,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 77479
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 182,
+   "exchange_timestamp": 1767240090500,
+   "last_traded_price": 2400881,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 77694
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 183,
+   "exchange_timestamp": 1767240091000,
+   "last_traded_price": 2400870,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 78181
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 184,
+   "exchange_timestamp": 1767240091500,
+   "last_traded_price": 2400668,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 78805
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 185,
+   "exchange_timestamp": 1767240092000,
+   "last_traded_price": 2400731,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 79562
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 186,
+   "exchange_timestamp": 1767240092500,
+   "last_traded_price": 2400735,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 79764
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 187,
+   "exchange_timestamp": 1767240093000,
+   "last_traded_price": 2400444,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 80410
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 188,
+   "exchange_timestamp": 1767240093500,
+   "last_traded_price": 2400358,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 81025
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 189,
+   "exchange_timestamp": 1767240094000,
+   "last_traded_price": 2400408,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 81390
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 190,
+   "exchange_timestamp": 1767240094500,
+   "last_traded_price": 2400475,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 81813
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 191,
+   "exchange_timestamp": 1767240095000,
+   "last_traded_price": 2400705,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 81903
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 192,
+   "exchange_timestamp": 1767240095500,
+   "last_traded_price": 2400535,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 82319
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 193,
+   "exchange_timestamp": 1767240096000,
+   "last_traded_price": 2400566,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 82474
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 194,
+   "exchange_timestamp": 1767240096500,
+   "last_traded_price": 2400683,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 82886
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 195,
+   "exchange_timestamp": 1767240097000,
+   "last_traded_price": 2400745,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 83352
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 196,
+   "exchange_timestamp": 1767240097500,
+   "last_traded_price": 2400419,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 84037
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 197,
+   "exchange_timestamp": 1767240098000,
+   "last_traded_price": 2400418,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 84329
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 198,
+   "exchange_timestamp": 1767240098500,
+   "last_traded_price": 2400053,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 84545
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 199,
+   "exchange_timestamp": 1767240099000,
+   "last_traded_price": 2400342,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 85017
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 200,
+   "exchange_timestamp": 1767240099500,
+   "last_traded_price": 2400298,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 85092
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 201,
+   "exchange_timestamp": 1767240100000,
+   "last_traded_price": 2400455,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 85943
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 202,
+   "exchange_timestamp": 1767240100500,
+   "last_traded_price": 2400783,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 86414
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 203,
+   "exchange_timestamp": 1767240101000,
+   "last_traded_price": 2400886,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 87294
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 204,
+   "exchange_timestamp": 1767240101500,
+   "last_traded_price": 2400583,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 87598
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 205,
+   "exchange_timestamp": 1767240102000,
+   "last_traded_price": 2400554,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 87758
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 206,
+   "exchange_timestamp": 1767240102500,
+   "last_traded_price": 2400834,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 88199
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 207,
+   "exchange_timestamp": 1767240103000,
+   "last_traded_price": 2401053,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 88476
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 208,
+   "exchange_timestamp": 1767240103500,
+   "last_traded_price": 2400826,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 88730
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 209,
+   "exchange_timestamp": 1767240104000,
+   "last_traded_price": 2400898,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 89092
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 210,
+   "exchange_timestamp": 1767240104500,
+   "last_traded_price": 2400736,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 89982
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 211,
+   "exchange_timestamp": 1767240105000,
+   "last_traded_price": 2400768,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 90056
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 212,
+   "exchange_timestamp": 1767240105500,
+   "last_traded_price": 2400658,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 90781
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 213,
+   "exchange_timestamp": 1767240106000,
+   "last_traded_price": 2400707,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 90902
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 214,
+   "exchange_timestamp": 1767240106500,
+   "last_traded_price": 2400841,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 91743
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 215,
+   "exchange_timestamp": 1767240107000,
+   "last_traded_price": 2400799,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 92202
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 216,
+   "exchange_timestamp": 1767240107500,
+   "last_traded_price": 2401025,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 92947
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 217,
+   "exchange_timestamp": 1767240108000,
+   "last_traded_price": 2401222,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 93025
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 218,
+   "exchange_timestamp": 1767240108500,
+   "last_traded_price": 2401198,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 93193
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 219,
+   "exchange_timestamp": 1767240109000,
+   "last_traded_price": 2401287,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 93837
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 220,
+   "exchange_timestamp": 1767240109500,
+   "last_traded_price": 2401201,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 94158
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 221,
+   "exchange_timestamp": 1767240110000,
+   "last_traded_price": 2401410,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 94561
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 222,
+   "exchange_timestamp": 1767240110500,
+   "last_traded_price": 2401461,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 95357
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 223,
+   "exchange_timestamp": 1767240111000,
+   "last_traded_price": 2401500,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 95930
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 224,
+   "exchange_timestamp": 1767240111500,
+   "last_traded_price": 2401333,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 96098
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 225,
+   "exchange_timestamp": 1767240112000,
+   "last_traded_price": 2401176,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 96408
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 226,
+   "exchange_timestamp": 1767240112500,
+   "last_traded_price": 2401314,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 96503
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 227,
+   "exchange_timestamp": 1767240113000,
+   "last_traded_price": 2401312,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 97378
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 228,
+   "exchange_timestamp": 1767240113500,
+   "last_traded_price": 2401303,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 97979
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 229,
+   "exchange_timestamp": 1767240114000,
+   "last_traded_price": 2401156,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 98783
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 230,
+   "exchange_timestamp": 1767240114500,
+   "last_traded_price": 2400806,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 99519
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 231,
+   "exchange_timestamp": 1767240115000,
+   "last_traded_price": 2400861,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 100249
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 232,
+   "exchange_timestamp": 1767240115500,
+   "last_traded_price": 2401022,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 100637
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 233,
+   "exchange_timestamp": 1767240116000,
+   "last_traded_price": 2400853,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 100814
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 234,
+   "exchange_timestamp": 1767240116500,
+   "last_traded_price": 2400688,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 101601
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 235,
+   "exchange_timestamp": 1767240117000,
+   "last_traded_price": 2400842,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 102333
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 236,
+   "exchange_timestamp": 1767240117500,
+   "last_traded_price": 2400730,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 102801
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 237,
+   "exchange_timestamp": 1767240118000,
+   "last_traded_price": 2400616,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 103418
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 238,
+   "exchange_timestamp": 1767240118500,
+   "last_traded_price": 2400836,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 103598
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 239,
+   "exchange_timestamp": 1767240119000,
+   "last_traded_price": 2400920,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 104036
+  },
+  {
+   "subscription_mode": 2,
+   "exchange_type": 1,
+   "token": "99926000",
+   "sequence_number": 240,
+   "exchange_timestamp": 1767240119500,
+   "last_traded_price": 2401141,
+   "closed_price": 2392214,
+   "volume_trade_for_the_day": 104779
+  }
+ ]
+}
